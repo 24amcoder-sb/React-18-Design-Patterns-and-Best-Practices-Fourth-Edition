@@ -2,7 +2,7 @@ repo_name: 24amcoder-sb/React-18-Design-Patterns-and-Best-Practices-Fourth-Editi
 report_id: e9e97bf878857c155d7a66106f764d67
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:40:15+00:00'
+timestamp: '2024-02-29T18:48:03+00:00'
 requested_by: srishhty
 provider: github
 branch: main
@@ -56,7 +56,7 @@ tools:
   last_updated_by: FoggDev
   last_updated_on: 2023-05-09 06:42:02.000000000 Z
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.2.4
   open_source: true
@@ -266,7 +266,7 @@ tools:
   last_updated_by: FoggDev
   last_updated_on: 2023-05-09 06:42:02.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.8
   license: MIT
